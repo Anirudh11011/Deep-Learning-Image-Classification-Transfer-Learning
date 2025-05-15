@@ -113,8 +113,6 @@ This project demonstrates the effectiveness of:
 
 ---
 
-## 📝 Authors
 
-Developed as part of a Deep Learning course assignment.
 
 ---
